@@ -5,7 +5,6 @@ var border = document.getElementById('pixelPainter');
 var colors = document.createElement('DIV');
 var grid = document.createElement('DIV');
 var btns = document.createElement('DIV');
-var table = document.createElement('TABLE');
 var gridNum = 100;
 var selected;
 var colorNum = 30;
